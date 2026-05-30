@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Vrihad
 
-<!--
-**VrihadS/VrihadS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative Developer building low-latency trading systems and market-making infrastructure.
 
-Here are some ideas to get you started:
+Currently working at Futures First, where I develop colocated C++ trading engines deployed across global derivatives exchanges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests lie at the intersection of:
+
+Low-Latency Systems
+Electronic Trading
+Market Microstructure
+Concurrent Programming
+High-Performance C++
+Trading Infrastructure
