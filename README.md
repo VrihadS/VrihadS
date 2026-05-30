@@ -88,6 +88,6 @@ perf • GDB • Valgrind • Benchmarking • Profiling • Latency Analysis
 
 ## 📫 Reach Me
 
-🔗 LinkedIn: [linkedin.com/in/vrihadanand](linkedin.com/in/vrihadanand)
+🔗 LinkedIn: [vrihadanand](https://www.linkedin.com/in/vrihadanand/)
 
 📧 [vrihadsrivastav@gmail.com](mailto:vrihadsrivastav@gmail.com)
